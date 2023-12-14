@@ -1,0 +1,58 @@
+{
+    "questions": [
+        {
+            "questionId": 1,
+            "text": "Jak się dziś czujesz?",
+            "possibleAnswers": [
+                { "answerValue": 0, "answerText": "zestresowany" },
+                { "answerValue": 1, "answerText": "pełen energii" },
+                { "answerValue": 2, "answerText": "zmęczony"},
+                { "answerValue": 3, "answerText": "ospały"}
+            ]
+         },
+        {
+            "questionId": 2,
+            "text": "co chciałbyś zrobić?",
+            "possibleAnswers": [
+                { "answerValue": 0, "answerText": "zrelaksować się" },
+                { "answerValue": 1, "answerText": "pobudzić się"}
+            ]
+        },
+        {
+            "questionId": 3,
+            "text": "w ciągu ostatnich 10 min głównie",
+            "possibleAnswers": [
+                { "answerValue": 0, "answerText": "siedziałem/leżałem" },
+                { "answerValue": 1, "answerText": "chodziłem/wykonywałem prace domowe"},
+                { "answerValue": 2, "answerText": "pracowałem fizycznie"}
+            ]
+        },
+        {
+            "questionId": 4,
+            "text": "Jakie masz obowiązki po treningu?",
+            "possibleAnswers": [
+                { "answerValue": 0, "answerText": "żadnych / bierny relaks (np. oglądanie TV)" },
+                { "answerValue": 1, "answerText": "praca siedząca"},
+                { "answerValue": 2, "answerText": "prace domowe / spacer / przejażdżka rowerem (inna lekka aktywność)"},
+                { "answerValue": 3, "answerText": "praca fizyczna"}
+            ]
+        },
+        {
+            "questionId": 5,
+            "text": "Jak oceniasz swój aktualny poziom energii w skali 1-10?",
+            "possibleAnswers": [
+                { "answerValue": 1, "answerText": "1" },
+                { "answerValue": 2, "answerText": "2"},
+                { "answerValue": 3, "answerText": "3"},
+                { "answerValue": 4, "answerText": "4"},
+                { "answerValue": 5, "answerText": "5"},
+                { "answerValue": 6, "answerText": "6" },
+                { "answerValue": 7, "answerText": "7"},
+                { "answerValue": 8, "answerText": "8"},
+                { "answerValue": 9, "answerText": "9"},
+                { "answerValue": 10, "answerText": "10"}
+            ]
+        }
+    ]
+}
+

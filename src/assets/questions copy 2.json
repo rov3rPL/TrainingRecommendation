@@ -1,0 +1,23 @@
+{
+    "questions": [
+        {
+            "questionId": 1,
+            "text": "Jak się dziś czujesz?",
+            "possibleAnswers": [
+                { "answerId": 1, "answerValue": "zestresowany" },
+                { "answerId": 2, "answerValue": "pełen energii" },
+                { "answerId": 3, "answerValue": "zmęczony"},
+                { "answerId": 4, "answerValue": "ospały"}
+            ]
+         },
+        {
+            "questionId": 2,
+            "text": "co chciałbyś zrobić?",
+            "possibleAnswers": [
+                { "answerId": 1, "answerValue": "zrelaksować się" },
+                { "answerId": 2, "answerValue": "pobudzić się"}
+            ]
+        }
+    ]
+}
+

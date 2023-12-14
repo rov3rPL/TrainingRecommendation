@@ -1,0 +1,377 @@
+{
+    "trainings": [{
+        "Title": "Przykładowy trening 1",
+        "TrainingType": 0,
+        "WarmUp": [
+            { 
+                "Description": "Lewy/prawy prosty a- pełny zakres, wolne tempo",
+                "Duration": 45,
+                "IntensityLevel": 4,
+                "EPOC": 2,
+                "OrderNo": 1
+            },
+            { 
+                "Description": "Skip C b- stopy do pośladków umiarkowane tempo",
+                "Duration": 30,
+                "IntensityLevel": 5,
+                "EPOC": 3,
+                "OrderNo": 2
+            },
+            { 
+                "Description": "Plank klasyczny",
+                "Duration": 45,
+                "IntensityLevel": 2,
+                "EPOC": 4,
+                "OrderNo": 3
+            }
+        ],
+        "Excersises": [
+            {
+                "SetName": "Obwód 1",
+                "Description": "Lewy/prawy prosty b- 1/2 zakresu, szybkie tempo",
+                "Duration": 30,
+                "IntensityLevel": 6,
+                "EPOC": 5,
+                "OrderNo": 1
+            },
+            {
+                "SetName": "Obwód 1",
+                "Description": "Skręty ciała w podskoku b- szybko, krótszy zakres ruchu",
+                "Duration": 30,
+                "IntensityLevel": 4,
+                "EPOC": 5,
+                "OrderNo": 2
+            },
+            {
+                "SetName": "Obwód 1",
+                "Description": "Przysiady z gardą a- 1/2 zakresu, szybko",
+                "Duration": 30,
+                "IntensityLevel": 8,
+                "EPOC": 6,
+                "OrderNo": 3
+            },
+            {
+                "SetName": "Obwód 1",
+                "Description": "Imitacja skakanki c- nisko luźno, stopy razem",
+                "Duration": 45,
+                "IntensityLevel": 3,
+                "EPOC": 2,
+                "OrderNo": 4
+            },
+            {
+                "SetName": "Obwód 1",
+                "Description": "Wspinaczka klasyczna c- 3/4 zakresu, średnie tempo",
+                "Duration": 30,
+                "IntensityLevel": 8,
+                "EPOC": 6,
+                "OrderNo": 5
+            },
+            {
+                "SetName": "Obwód 2",
+                "Description": "Lewy/prawy prosty b- 1/2 zakresu, szybkie tempo",
+                "Duration": 30,
+                "IntensityLevel": 6,
+                "EPOC": 5,
+                "OrderNo": 6
+            },
+            {
+                "SetName": "Obwód 2",
+                "Description": "Skręty ciała w podskoku b- szybko, krótszy zakres ruchu",
+                "Duration": 30,
+                "IntensityLevel": 4,
+                "EPOC": 5,
+                "OrderNo": 7
+            },
+            {
+                "SetName": "Obwód 2",
+                "Description": "Przysiady z gardą a- 1/2 zakresu, szybko",
+                "Duration": 20,
+                "IntensityLevel": 8,
+                "EPOC": 6,
+                "OrderNo": 8
+            },
+            {
+                "SetName": "Obwód 2",
+                "Description": "Imitacja skakanki c- nisko luźno, stopy razem",
+                "Duration": 45,
+                "IntensityLevel": 3,
+                "EPOC": 2,
+                "OrderNo": 9
+            },
+            {
+                "SetName": "Obwód 2",
+                "Description": "Wspinaczka klasyczna c- 3/4 zakresu, średnie tempo",
+                "Duration": 30,
+                "IntensityLevel": 8,
+                "EPOC": 6,
+                "OrderNo": 10
+            },
+            {
+                "SetName": "Obwód 3",
+                "Description": "Lewy/prawy prosty b- 1/2 zakresu, szybkie tempo",
+                "Duration": 30,
+                "IntensityLevel": 6,
+                "EPOC": 5,
+                "OrderNo": 11
+            },
+            {
+                "SetName": "Obwód 3",
+                "Description": "Skręty ciała w podskoku b- szybko, krótszy zakres ruchu",
+                "Duration": 30,
+                "IntensityLevel": 4,
+                "EPOC": 5,
+                "OrderNo": 12
+            },
+            {
+                "SetName": "Obwód 3",
+                "Description": "Przysiady z gardą a- 1/2 zakresu, szybko",
+                "Duration": 20,
+                "IntensityLevel": 8,
+                "EPOC": 6,
+                "OrderNo": 13
+            },
+            {
+                "SetName": "Obwód 3",
+                "Description": "Imitacja skakanki c- nisko luźno, stopy razem",
+                "Duration": 45,
+                "IntensityLevel": 3,
+                "EPOC": 2,
+                "OrderNo": 14
+            },
+            {
+                "SetName": "Obwód 3",
+                "Description": "Wspinaczka klasyczna c- 3/4 zakresu, średnie tempo",
+                "Duration": 30,
+                "IntensityLevel": 8,
+                "EPOC": 6,
+                "OrderNo": 15
+            }
+        ],
+        "Ending": [
+            { 
+                "Description": "Skręty ciała w podskoku a- luźno wolne tempo, długi zakres ruchu",
+                "Duration": 30,
+                "IntensityLevel": 3,
+                "EPOC": 2,
+                "OrderNo": 1
+            },
+            { 
+                "Description": "squat with diagonal rich",
+                "Duration": 15,
+                "IntensityLevel": 2,
+                "EPOC": 2,
+                "OrderNo": 2
+            },
+            { 
+                "Description": "squat with diagonal rich",
+                "Duration": 15,
+                "IntensityLevel": 2,
+                "EPOC": 2,
+                "OrderNo": 3
+            },
+            { 
+                "Description": "siedzenie+nogi szeroko+skołon z wyciągniętymi rękami 5 s. przytrzymania",
+                "Duration": 30,
+                "IntensityLevel": 1,
+                "EPOC": 2,
+                "OrderNo": 4
+            },
+            { 
+                "Description": "Skręty ciała w podskoku a- luźno wolne tempo, długi zakres ruchu",
+                "Duration": 30,
+                "IntensityLevel": 3,
+                "EPOC": 2,
+                "OrderNo": 5
+            }
+        ]
+    },
+
+
+    {
+        "Title": "Trening siłowy",
+        "TrainingType": 3,
+        "WarmUp": [
+            { 
+                "Description": "Lewy/prawy prosty a- pełny zakres, wolne tempo",
+                "Duration": 45,
+                "IntensityLevel": 4,
+                "EPOC": 2,
+                "OrderNo": 1
+            },
+            { 
+                "Description": "Skip C b- stopy do pośladków umiarkowane tempo",
+                "Duration": 30,
+                "IntensityLevel": 5,
+                "EPOC": 3,
+                "OrderNo": 2
+            },
+            { 
+                "Description": "Plank klasyczny",
+                "Duration": 45,
+                "IntensityLevel": 2,
+                "EPOC": 4,
+                "OrderNo": 3
+            }
+        ],
+        "Excersises": [
+            {
+                "SetName": "Obwód 1",
+                "Description": "Lewy/prawy prosty b- 1/2 zakresu, szybkie tempo",
+                "Duration": 30,
+                "IntensityLevel": 6,
+                "EPOC": 5,
+                "OrderNo": 1
+            },
+            {
+                "SetName": "Obwód 1",
+                "Description": "Skręty ciała w podskoku b- szybko, krótszy zakres ruchu",
+                "Duration": 30,
+                "IntensityLevel": 4,
+                "EPOC": 5,
+                "OrderNo": 2
+            },
+            {
+                "SetName": "Obwód 1",
+                "Description": "Przysiady z gardą a- 1/2 zakresu, szybko",
+                "Duration": 30,
+                "IntensityLevel": 8,
+                "EPOC": 6,
+                "OrderNo": 3
+            },
+            {
+                "SetName": "Obwód 1",
+                "Description": "Imitacja skakanki c- nisko luźno, stopy razem",
+                "Duration": 45,
+                "IntensityLevel": 3,
+                "EPOC": 2,
+                "OrderNo": 4
+            },
+            {
+                "SetName": "Obwód 1",
+                "Description": "Wspinaczka klasyczna c- 3/4 zakresu, średnie tempo",
+                "Duration": 30,
+                "IntensityLevel": 8,
+                "EPOC": 6,
+                "OrderNo": 5
+            },
+            {
+                "SetName": "Obwód 2",
+                "Description": "Lewy/prawy prosty b- 1/2 zakresu, szybkie tempo",
+                "Duration": 30,
+                "IntensityLevel": 6,
+                "EPOC": 5,
+                "OrderNo": 6
+            },
+            {
+                "SetName": "Obwód 2",
+                "Description": "Skręty ciała w podskoku b- szybko, krótszy zakres ruchu",
+                "Duration": 30,
+                "IntensityLevel": 4,
+                "EPOC": 5,
+                "OrderNo": 7
+            },
+            {
+                "SetName": "Obwód 2",
+                "Description": "Przysiady z gardą a- 1/2 zakresu, szybko",
+                "Duration": 20,
+                "IntensityLevel": 8,
+                "EPOC": 6,
+                "OrderNo": 8
+            },
+            {
+                "SetName": "Obwód 2",
+                "Description": "Imitacja skakanki c- nisko luźno, stopy razem",
+                "Duration": 45,
+                "IntensityLevel": 3,
+                "EPOC": 2,
+                "OrderNo": 9
+            },
+            {
+                "SetName": "Obwód 2",
+                "Description": "Wspinaczka klasyczna c- 3/4 zakresu, średnie tempo",
+                "Duration": 30,
+                "IntensityLevel": 8,
+                "EPOC": 6,
+                "OrderNo": 10
+            },
+            {
+                "SetName": "Obwód 3",
+                "Description": "Lewy/prawy prosty b- 1/2 zakresu, szybkie tempo",
+                "Duration": 30,
+                "IntensityLevel": 6,
+                "EPOC": 5,
+                "OrderNo": 11
+            },
+            {
+                "SetName": "Obwód 3",
+                "Description": "Skręty ciała w podskoku b- szybko, krótszy zakres ruchu",
+                "Duration": 30,
+                "IntensityLevel": 4,
+                "EPOC": 5,
+                "OrderNo": 12
+            },
+            {
+                "SetName": "Obwód 3",
+                "Description": "Przysiady z gardą a- 1/2 zakresu, szybko",
+                "Duration": 20,
+                "IntensityLevel": 8,
+                "EPOC": 6,
+                "OrderNo": 13
+            },
+            {
+                "SetName": "Obwód 3",
+                "Description": "Imitacja skakanki c- nisko luźno, stopy razem",
+                "Duration": 45,
+                "IntensityLevel": 3,
+                "EPOC": 2,
+                "OrderNo": 14
+            },
+            {
+                "SetName": "Obwód 3",
+                "Description": "Wspinaczka klasyczna c- 3/4 zakresu, średnie tempo",
+                "Duration": 30,
+                "IntensityLevel": 8,
+                "EPOC": 6,
+                "OrderNo": 15
+            }
+        ],
+        "Ending": [
+            { 
+                "Description": "Skręty ciała w podskoku a- luźno wolne tempo, długi zakres ruchu",
+                "Duration": 30,
+                "IntensityLevel": 3,
+                "EPOC": 2,
+                "OrderNo": 1
+            },
+            { 
+                "Description": "squat with diagonal rich",
+                "Duration": 15,
+                "IntensityLevel": 2,
+                "EPOC": 2,
+                "OrderNo": 2
+            },
+            { 
+                "Description": "squat with diagonal rich",
+                "Duration": 15,
+                "IntensityLevel": 2,
+                "EPOC": 2,
+                "OrderNo": 3
+            },
+            { 
+                "Description": "siedzenie+nogi szeroko+skołon z wyciągniętymi rękami 5 s. przytrzymania",
+                "Duration": 30,
+                "IntensityLevel": 1,
+                "EPOC": 2,
+                "OrderNo": 4
+            },
+            { 
+                "Description": "Skręty ciała w podskoku a- luźno wolne tempo, długi zakres ruchu",
+                "Duration": 30,
+                "IntensityLevel": 3,
+                "EPOC": 2,
+                "OrderNo": 5
+            }
+        ]
+    }]
+
+}

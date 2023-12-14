@@ -1,0 +1,22 @@
+{
+    "questions": [
+        { 
+            "questionId": 1,
+            "text": "treść 1",
+            "possibleAnswers": [
+                { "answerId": 1, "answerValue": "mały" },
+                { "answerId": 2, "answerValue": "średni" },
+                { "answerId": 3, "answerValue": "duży"}
+            ]
+         },
+        {
+            "questionId": 2,
+            "text": "treść 2",
+            "possibleAnswers": [
+                { "answerId": 1, "answerValue": "tak" },
+                { "answerId": 2, "answerValue": "nie"},
+                { "answerId": 3, "answerValue": "nie wiem"}
+            ]
+        }
+    ]
+}

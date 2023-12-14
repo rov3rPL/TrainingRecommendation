@@ -1,0 +1,26 @@
+<ng-container *ngFor="let step of steps">
+  <div class="message" [ngClass]="{from: step.author === 'bot',to: step.author === 'user'}">
+    <app-wizard-step [stepData]="step" (stepAnswerEvent)="collectStepAnswer($event)"></app-wizard-step>
+  </div>  
+</ng-container>
+<!-- <label *ngIf="steps.length == 0; else dialogInfo" for="nameField">Chat Bot</label>
+<input [(ngModel)]="value" (keyup.enter)="sendAnswer()" type="text" />
+<button (click)="sendAnswer()">Send</button> -->
+<!-- <ng-template #dialogInfo>
+  <span [className]="'float-right'">Total messages: {{ steps.length }}</span>
+</ng-template> -->
+
+<div *ngIf="resultsReady">
+  Dopasowany trening:
+
+  <div *ngFor="let result of results">
+    <div class="scoringResult">
+      <h4>{{result.training.Title}}</h4>
+      <p *ngFor="let score of result.scoring.scores">{{score.name}} {{score.value}}</p>
+      <p><b>Łącznie {{result.scoring.finalScore}}</b></p>
+    </div>
+
+    <!-- TODO: Training component -->
+
+  </div>
+</div>

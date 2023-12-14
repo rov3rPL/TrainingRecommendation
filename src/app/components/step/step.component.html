@@ -1,0 +1,8 @@
+{{stepData.content}}
+
+<div>
+  <label *ngFor="let ans of stepData.question?.possibleAnswers;" >
+    <input type="radio" value={{ans.answerValue}} (change)="collectAnswer(ans)"
+     [checked]="selectedValue == ans.answerValue" [disabled]="selectedValue"> {{ans.answerText}}
+  </label>
+</div>
